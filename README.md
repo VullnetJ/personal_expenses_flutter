@@ -1,3 +1,6 @@
+### The project is done without Null Check Safety (December 2020)
+
+
 # personal_expenses
 
 A new Flutter project.
